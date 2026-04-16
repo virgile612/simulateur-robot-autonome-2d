@@ -105,7 +105,7 @@ Projet_robot/
 
 ---
 
-## Diagramme de classes (UML simplifié)
+## Diagramme de classes
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
