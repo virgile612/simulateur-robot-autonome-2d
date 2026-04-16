@@ -131,7 +131,7 @@ Le fichier `main.py` doit se trouver à la racine, et le dossier `robot/` doit �
 
 ## Fonctionnalités techniques
 
-- **Planification A*** sur grille de danger (zones de caméras = murs virtuels), avec replanification automatique si la grille évolue.
+- **Planification A** sur grille de danger (zones de caméras = murs virtuels), avec replanification automatique si la grille évolue.
 - **Fog of war** : la carte est révélée progressivement par un lidar à 36 rayons (DDA simplifié) ; le contrôleur autonome explore les frontières jusqu'à localiser l'objectif.
 - **Caméras patrouilleuses** : déplacement continu sur un trajet en boucle, direction recalculée dynamiquement.
 - **Rollback de collision** : la pose du robot est restaurée à chaque collision physique détectée.
